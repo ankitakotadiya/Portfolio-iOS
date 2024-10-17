@@ -24,6 +24,7 @@ Teamwork, Effective Collaboration, Problem Solving, Critical Thinking, Time Mana
 Effortlessly organise your life with customisable folders and subfolders. Store text, links, and images all in one place, and manage your data with ease.
 
 **Key Features:**
+
 Custom Folder & Subfolder Creation: Easily create and organise your data into folders and subfolders to keep everything tidy and accessible.
 
 Versatile Data Storage: Save text, links, and images all in one place. Whether it's an important document, a favourite website, or a memorable photo, you can store it securely and retrieve it whenever you need.
