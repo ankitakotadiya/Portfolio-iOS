@@ -20,4 +20,19 @@ Xcode, GitHub, Sourcetree, JIRA, APP Store Connect, TestFlight, Figma, Slack, At
 ### Soft Skills
 Teamwork, Effective Collaboration, Problem Solving, Critical Thinking, Time Management, Reliable Commitment, Versatile, Resourceful.
 
-# [MemoBox]()
+# [MemoBox](https://apps.apple.com/us/app/memobox/id6654880592)
+Effortlessly organise your life with customisable folders and subfolders. Store text, links, and images all in one place, and manage your data with ease.
+
+**Key Features:**
+Custom Folder & Subfolder Creation: Easily create and organise your data into folders and subfolders to keep everything tidy and accessible.
+
+Versatile Data Storage: Save text, links, and images all in one place. Whether it's an important document, a favourite website, or a memorable photo, you can store it securely and retrieve it whenever you need.
+
+Easy Editing & Management: Rename, edit, or delete folders and subfolders with a simple tap. Our user-friendly interface ensures you can manage your content effortlessly.
+
+Secure & Private: Your data is stored locally on your device, ensuring that your information stays safe and private.
+
+Streamlined Workflow: Perfect for students, professionals, and anyone who needs to keep their information organised and at their fingertips.
+
+Whether you need to organize your study notes, manage your work projects, or keep track of personal ideas and inspirations, our app is designed to meet your needs. Download now and experience the simplicity and efficiency of organised living!
+
