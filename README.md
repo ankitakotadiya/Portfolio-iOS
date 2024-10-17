@@ -66,4 +66,73 @@ Common Features
 
 [Prototype](https://www.figma.com/proto/3j3rqk3ziCmqMAsxSJmKT4/Style2Space_App-Design?node-id=1-2&node-type=canvas&t=wCqHl2xmm1sh50E3-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
+# [MoonInvoice](https://apps.apple.com/in/app/moon-invoice-receipt-maker/id1008723643)
+Moon Invoice is an invoicing solution for small biz, freelancers, & consultants with features like track invoices & expenses, WhatsApp sharing, tap-to-pay, multi-user, reports & stocks.
+
+Ultimate Invoicing Module
+- Unlimited invoices with unlimited edits
+- Send invoices via WhatsApp
+- Save invoices in PDF on your device
+- Accept advance payments and record the same in the invoice
+- Users can track emailed invoices in real-time for view, click, & open status
+- Set prefixes for invoices, estimates & PO (e.g., INV1401)
+- Set recurring invoices on auto mode
+- Use the one-click button for printing invoices
+- Duplicate invoices asap with one click!
+- Customise invoices using different templates, themes, colours, and fonts
+- Send invoices in 100+ currencies
+
+Estimates, Purchase Orders, & Credit Notes
+- Design winning business estimates & convert them to invoices
+- Draft unlimited POs
+- Write credit notes, & adjust them in the invoices
+- Send estimates, POs, & credit notes via WhatsApp
+
+Accept Online Payments
+- Accept online payments from 15+ popular payment gateways (Stripe, PayPal, UPI, Venmo, etc.)
+- Receive contactless payments with Apple tap-to-pay
+- Accept payments by setting up a custom payment method
+- Automate payment reminders and set due alerts!
+
+Manage Taxes
+- Manage overhead taxes easily
+- Record taxes and generate timely taxation reports
+- Save time on adding taxes to products and tasks using the tax-inclusive feature
+
+Business Insights & Dashboard View
+- Analyse the financial stability of your business or profession with 15+ business reports that are easy to view, & download
+- Identify the outstanding amounts by filtering the customer statements
+- Customise the dashboard view with top paying customers & vendors, payments, net profit, total estimates, expenses, POs, overdue, recent activities & time logs
+
+Manage Inventory, Stock
+- Add unlimited products to Moon Invoice
+- Get low-stock alerts
+- Download the stock report on the go!
+
+Manage Business Expenses
+- View & Track all business expenses
+- Download the expense report with a single click
+- Sync credit card or bank account to stay ahead of the business transactions
+
+Project Management with Timelog
+- Manage projects easily by selecting a client
+- Track project-wise billed hours to generate accurate time logs
+- Save time logs & convert them into an invoice
+- Streamline projects & create invoices using an inbuilt timesheet
+- Capture time logs using the app’s timer, which works even when the app is closed
+- Track your team’s productivity by knowing the amount of time required for each task
+
+Cloud Sync & Use Offline
+- Securely backup all your data to Dropbox or iCloud & restore it with TouchID or Face ID
+- Access all data from any device by enabling Cloud Sync
+- New users on login can opt for an auto-backup feature for high data security
+- Get leverage of working offline; data is secured on the device as it doesn’t sync or send to any server or outside the device!
+
+Subscription Details
+- Subscription available in 1month & 1year duration
+- Payment will be charged to iTunes Account
+- Automatically renews unless auto-renew is turned off at least 24 hours (Manage from Account Settings after purchase)
+- Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication, where applicable
+
+<img width="1066" alt="Screenshot 2024-10-17 at 1 21 20 PM" src="https://github.com/user-attachments/assets/2323bf57-7436-4563-a691-d935d3e26222">
 
