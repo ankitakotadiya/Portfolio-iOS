@@ -189,5 +189,6 @@ In addition to my primary roles, I have also worked as a freelancer with various
 - Email: ankitakotadia1998@gmail.com
 - GitHub: [ankitakotadiya](https://github.com/ankitakotadiya)
 - LinkedIn: [Ankita Kotadia](https://www.linkedin.com/in/ankita-kotadia/)
-Let’s connect on [Medium](https://medium.com/@ankitakotadita/about)! Follow me to see my latest articles and insights.
+
+Let’s connect on [Medium](https://medium.com/@ankitakotadita)! Follow me to see my latest articles and insights.
 
