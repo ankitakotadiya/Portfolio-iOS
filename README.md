@@ -136,3 +136,11 @@ Subscription Details
 
 <img width="1066" alt="Screenshot 2024-10-17 at 1 21 20 PM" src="https://github.com/user-attachments/assets/2323bf57-7436-4563-a691-d935d3e26222">
 
+# Other Projects
+### Bodies App
+The Bodies app is a dynamic and customizable workout session booking platform designed to enhance your fitness journey. With three distinct user modules—Host, Coach, and User—this app streamlines the process of organizing and participating in workout sessions.
+
+**Key Features:**
+- Host Module: Hosts can easily organize workout sessions and invite coaches to participate. Once a coach accepts the invitation, the session becomes visible to users, ensuring a smooth collaboration between hosts and coaches.
+- Coach Module: Coaches can manage their availability and connect with hosts to offer tailored workout sessions that suit various fitness goals and preferences.
+- User Module: Users enjoy the flexibility to create personalized workout sessions based on their preferences, including weekly schedules, favorite coaches, and preferred hosts.
