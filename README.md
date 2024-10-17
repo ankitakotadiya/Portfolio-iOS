@@ -37,3 +37,6 @@ Streamlined Workflow: Perfect for students, professionals, and anyone who needs 
 
 Whether you need to organize your study notes, manage your work projects, or keep track of personal ideas and inspirations, our app is designed to meet your needs. Download now and experience the simplicity and efficiency of organised living!
 
+![Display-6 7](https://github.com/user-attachments/assets/9750f19b-b12c-42b4-8641-d9f1f39c70c9)
+
+
