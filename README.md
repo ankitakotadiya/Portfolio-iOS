@@ -164,3 +164,23 @@ The Dr. Hanady app is a dedicated platform designed for doctors managing multipl
 - User-Friendly Interface: The app features an intuitive design, making it easy for both doctors and clients to navigate, request, and send diet plans.
 - Seamless Communication: The app facilitates direct communication between Dr. Hanady and clients, allowing for quick feedback and adjustments to diet plans as necessary.
 - Track Progress: Clients can monitor their progress over time, providing valuable insights that help refine their diet plans and enhance their overall health journey.
+
+In addition to my primary roles, I have also worked as a freelancer with various clients, gaining valuable experience across different projects. This opportunity has allowed me to help businesses grow and achieve their goals through tailored solutions and dedicated support. My freelance work has not only enhanced my skills but also deepened my understanding of diverse industry needs and challenges. Throughout my projects, I have utilized a range of technologies to enhance functionality and deliver quality results. Some of the key technologies I have worked with include:
+
+**Technologies**
+ - Swift (UIKit & SwiftUI)
+ - Objective-C
+ - Async/Await
+ - Multithreading Programming Using GCD & Operation Queue
+ - Networking Interface Using URLSession
+ - PDF Creation Using CoreGraphics
+ - Storyboards, Xibs, and Programmatic UI
+ - CoreData, Realm data storage
+ - Firebase and Apple Push Notification
+ - Firebase (Crashlytics, Auth,Analytics)
+ - Local Notification
+ - A/B Testing Using Firebase Remote Config
+ - Memory Optimisation
+ - In-App-Purchase Using StoreKit
+ - Google and Apple Map Integration
+ - Social Media Authentication
