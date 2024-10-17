@@ -144,3 +144,23 @@ The Bodies app is a dynamic and customizable workout session booking platform de
 - Host Module: Hosts can easily organize workout sessions and invite coaches to participate. Once a coach accepts the invitation, the session becomes visible to users, ensuring a smooth collaboration between hosts and coaches.
 - Coach Module: Coaches can manage their availability and connect with hosts to offer tailored workout sessions that suit various fitness goals and preferences.
 - User Module: Users enjoy the flexibility to create personalized workout sessions based on their preferences, including weekly schedules, favorite coaches, and preferred hosts.
+
+### Transporter App
+The Transporter application is specifically designed for individuals who need to transfer their luggage from one location to another with ease and reliability. Featuring two main modules—Users and Riders—this app streamlines the process of requesting luggage transport.
+
+**Key Features:**
+- User Module: Users can easily send requests to nearby riders based on their luggage transfer needs. The intuitive interface ensures that users can quickly find available riders for timely service.
+- Rider Module: Riders receive requests and can accept them based on their availability. Once a request is accepted, a live session is initiated between the user and the rider, allowing for real-time communication.
+- Safe and Reliable Transfers: Riders are responsible for safely transporting users' luggage to the specified destination. Users can track their ride and communicate with the rider throughout the process.
+- In-App Support: Should any issues arise during the transfer, both users and riders can easily contact support for assistance, ensuring a smooth and secure experience.
+- Completion of Ride: Upon arrival at the destination, the rider completes the ride, providing users with a hassle-free luggage transfer experience.
+
+### Dr. Hanady App
+The Dr. Hanady app is a dedicated platform designed for doctors managing multiple clients who seek personalized diet plans. This innovative application streamlines the process of creating and sending tailored nutrition plans, ensuring clients receive the dietary guidance they need for optimal health.
+
+**Key Features:**
+- Client Requests: Users can easily request personalized diet plans through the app, specifying their dietary preferences, goals, and any health considerations.
+- Tailored Nutrition Plans: Dr. Hanady can review client requests and craft customized diet plans that cater to individual needs, helping clients achieve their health and wellness objectives.
+- User-Friendly Interface: The app features an intuitive design, making it easy for both doctors and clients to navigate, request, and send diet plans.
+- Seamless Communication: The app facilitates direct communication between Dr. Hanady and clients, allowing for quick feedback and adjustments to diet plans as necessary.
+- Track Progress: Clients can monitor their progress over time, providing valuable insights that help refine their diet plans and enhance their overall health journey.
