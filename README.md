@@ -20,3 +20,4 @@ Xcode, GitHub, Sourcetree, JIRA, APP Store Connect, TestFlight, Figma, Slack, At
 ### Soft Skills
 Teamwork, Effective Collaboration, Problem Solving, Critical Thinking, Time Management, Reliable Commitment, Versatile, Resourceful.
 
+# MemoBox[]
