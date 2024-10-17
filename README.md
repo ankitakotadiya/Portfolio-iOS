@@ -40,6 +40,6 @@ Whether you need to organize your study notes, manage your work projects, or kee
 ![Display-6 7](https://github.com/user-attachments/assets/9750f19b-b12c-42b4-8641-d9f1f39c70c9)
 
 # [Style2Space]()
-
+[Prototype](https://www.figma.com/proto/3j3rqk3ziCmqMAsxSJmKT4/Style2Space_App-Design?node-id=1-2&node-type=canvas&t=tMy9W6OCJqK32ZH2-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 
