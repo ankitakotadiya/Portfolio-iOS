@@ -45,28 +45,28 @@ Style2Space transforms your living spaces with our innovative home renovation ap
 **Key Features:**
 
 Users
-User Registration: Register as a user or designer.
-Connect with Designers: Browse and view designer profiles and portfolios.
-Explore Design Ideas: Discover inspiration for various spaces (e.g., living room, kitchen).
-Vastu Information: Access tips based on Vastu Shastra principles.
-Bid Placement: Submit bids for design projects and communicate needs.
-Nearby Designer Suggestions: Get recommendations for local designers.
-Payment Processing: Secure payments for accepted bids.
-Project Tracking: Monitor project progress and receive updates.
-Favorites: Save favorite designs, journals, and designers.
+- User Registration: Register as a user or designer. 
+- Connect with Designers: Browse and view designer profiles and portfolios. 
+- Explore Design Ideas: Discover inspiration for various spaces (e.g., living room, kitchen). 
+- Vastu Information: Access tips based on Vastu Shastra principles. 
+- Bid Placement: Submit bids for design projects and communicate needs.
+- Nearby Designer Suggestions: Get recommendations for local designers.
+- Payment Processing: Secure payments for accepted bids.
+- Project Tracking: Monitor project progress and receive updates.
+- Favorites: Save favorite designs, journals, and designers.
 
 Designers
-Designer Registration: Easy sign-up process for designers.
-Portfolio Creation: Build and manage a detailed project portfolio.
-Bid Management: Accept or reject user bids and communicate project details.
-Design Ideas Access: Share and view design ideas with users.
+- Designer Registration: Easy sign-up process for designers.
+- Portfolio Creation: Build and manage a detailed project portfolio.
+- Bid Management: Accept or reject user bids and communicate project details.
+- Design Ideas Access: Share and view design ideas with users.
 
 Common Features
-User-Friendly Interface: Intuitive navigation for both users and designers.
-Search and Filters: Quickly find designers or design ideas.
-Notification System: Real-time alerts for bids and messages.
-Secure Messaging: In-app communication between users and designers.
-Review System: Rate and review designers post-project completion.
+- User-Friendly Interface: Intuitive navigation for both users and designers.
+- Search and Filters: Quickly find designers or design ideas.
+- Notification System: Real-time alerts for bids and messages.
+- Secure Messaging: In-app communication between users and designers.
+- Review System: Rate and review designers post-project completion.
 
 [Prototype](https://www.figma.com/proto/3j3rqk3ziCmqMAsxSJmKT4/Style2Space_App-Design?node-id=1-2&node-type=canvas&t=wCqHl2xmm1sh50E3-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
